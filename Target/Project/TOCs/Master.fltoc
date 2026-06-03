@@ -51,17 +51,13 @@
     <TocEntry
       Title="Concepts">
       <TocEntry
-        Title="Concept1"
-        Link="/Content/RelTable/Concepts/Concept1.htm" />
+        Title="Concept1" />
       <TocEntry
-        Title="Concept2"
-        Link="/Content/RelTable/Concepts/Concept2.htm" />
+        Title="Concept2" />
       <TocEntry
-        Title="Concept3"
-        Link="/Content/RelTable/Concepts/Concept3.htm" />
+        Title="Concept3" />
       <TocEntry
-        Title="Concept4"
-        Link="/Content/RelTable/Concepts/Concept4.htm" />
+        Title="Concept4" />
     </TocEntry>
     <TocEntry
       Title="References">

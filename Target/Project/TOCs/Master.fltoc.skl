@@ -18,10 +18,10 @@
     </TocEntry>
     <TocEntry Title="砻קยด16ตว融">
         <TocEntry Title="砻קยด17ตว融">
-            <TocEntry Title="砻קยด18ตว融" Link="/Content/RelTable/Concepts/Concept1.htm" />
-            <TocEntry Title="砻קยด19ตว融" Link="/Content/RelTable/Concepts/Concept2.htm" />
-            <TocEntry Title="砻קยด20ตว融" Link="/Content/RelTable/Concepts/Concept3.htm" />
-            <TocEntry Title="砻קยด21ตว融" Link="/Content/RelTable/Concepts/Concept4.htm" />
+            <TocEntry Title="砻קยด18ตว融" />
+            <TocEntry Title="砻קยด19ตว融" />
+            <TocEntry Title="砻קยด20ตว融" />
+            <TocEntry Title="砻קยด21ตว融" />
         </TocEntry>
         <TocEntry Title="砻קยด22ตว融">
             <TocEntry Title="砻קยด23ตว融" Link="/Content/RelTable/References/Ref1.htm" />
